@@ -50,7 +50,7 @@ def app(df, x, y):
                         )
 
     with col2:
-        st.subheader('Sebaran Jumlah Anak', divider = 'blue')
+        st.subheader('Children Distribution', divider = 'blue')
         st.bar_chart(
                         child_viz,
                         x = 'CHILDREN',
