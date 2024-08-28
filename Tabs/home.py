@@ -5,6 +5,6 @@ def app():
     st.header('Created By:')
     st.header('Team Eleven')
     st.subheader('For:')
-    ST.subheader('Iconic IT 2024')
+    st.subheader('Iconic IT 2024')
     
     
